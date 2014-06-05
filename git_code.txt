@@ -7,3 +7,5 @@ git commit -m "{{commit comment}}"
 git remote add origin {{git repo url}}
 
 git push -u origin master
+
+git clone {{git repo url}}
